@@ -1,0 +1,343 @@
+[1] This law is called the Delhi Rent Act, 1995. It applies to specific areas in Delhi, including those within the New Delhi Municipal Council, the Delhi Cantonment Board, and urban areas within the Municipal Corporation of Delhi. However, the Central Government can exclude certain areas, premises, or types of buildings from the law's application through official notifications.
+
+The law comes into effect on a date determined by the Central Government, as mentioned in an official notification in the Gazette.[/1]
+
+[2] This section defines important terms used in the Delhi Rent Act, 1995:
+
+Bench: Refers to a group of members in the Tribunal.
+Chairman: The head of the Tribunal.
+Fair Rate: The rate fixed under section 39, including any revisions under section 40.
+Hotel or Lodging House: A building or part where lodging, with or without board or other services, is provided for a fee.
+Landlord: Someone receiving or entitled to receive rent for any premises, whether on their own account or on behalf of others.
+Lawful Increase: An increase in rent allowed by the provisions of this Act.
+Manager of a Hotel: Includes anyone in charge of the hotel's management.
+Member: A member of the Tribunal, including the Chairman.
+Owner of a Lodging House: Someone receiving or entitled to receive money for board, lodging, or other services in a lodging house.
+Premises: Any building or part intended to be let separately for residential or non-residential use, including gardens, grounds, and fittings, excluding hotel or lodging house rooms.
+Prescribed: Defined by rules under this Act.
+Rent Authority: An authority appointed under section 43, including an additional Rent Authority.
+Standard Rent: Rent calculated under section 7 for any premises.
+Tenant: Any person paying or liable to pay rent, including sub-tenants and those in possession after the tenancy termination, but excluding specific cases.
+Tribunal: The Delhi Rent Tribunal established under section 46.
+Urban Area: Defined as in the Delhi Municipal Corporation Act, 1957.[/2]
+
+[3] The Act does not apply to:
+
+(a) Premises owned by the Government or a local authority.
+(b) Tenancies created by a government grant for leased or requisitioned premises.
+(c) Premises with a monthly deemed rent exceeding Rs. 3,500 at the Act's commencement.
+(d) Premises constructed between December 1, 1988, and the Act's commencement for ten years.
+(e) Premises constructed after the Act's commencement for fifteen years.
+(f) Premises not let out within seven years before letting, for fifteen years.
+(g) Premises let to a foreign citizen, embassy, or international organization specified by the Central Government.
+(h) Premises owned by specified religious, charitable, or educational trusts.
+(i) Tenancies lasting twenty years or more, registered under the Registration Act, 1908, not terminable before completion.
+Explanations:
+
+Explanation I: The Act applies to premises let to the government or local authority.
+Explanation II: Premises belonging to the government or local authority exclude buildings on land held by others under an agreement, lease, license, or grant.
+Explanation III: "Deemed rent" on the Act's commencement is calculated based on section 7, with adjustments for revisions and decreases.
+Explanation IV: "Date of completion of construction" is the completion date as intimated or assessed for property tax, whichever is earlier.
+Explanation V: "Premises constructed" includes rebuilding over 75% of an existing building and additional construction.
+The Rent Authority has jurisdiction over disputes related to tenancies in premises mentioned in clauses (c) to (i) of sub-section (1), overriding other laws like the Transfer of Property Act, 1882, and the Code of Civil Procedure, 1908.[/3]
+
+[4] This section is about registering tenancy agreements under the Delhi Rent Act, 1995:
+
+Written Agreement Requirement:
+
+After the Act begins, no one can let or take on rent any premises without a written agreement, as per section 107 of the Transfer of Property Act, 1882.
+Registration of Agreements:
+
+Every agreement mentioned in (1) or required to be registered under sub-section (3) must be registered under the Registration Act, 1908.
+The agreement is treated as a document for which registration is compulsory under section 17 of the Registration Act.
+Registration for Existing Tenancies:
+
+For tenancies created before this Act started:
+(a) If there was a written agreement not registered under the Registration Act, the landlord and tenant must jointly present a copy for registration.
+(b) If there was no written agreement, the landlord and tenant must create one and present it for registration.
+If the landlord and tenant cannot agree or jointly present the agreement, they should separately file details about the tenancy with the prescribed authority within the prescribed period and in the prescribed manner.[/4]
+
+[5] This section is about what happens to a rented property when a tenant dies:
+
+Succession Order:
+
+After the death of a tenant, the right to the tenancy passes to successors for ten years in the following order:
+(a) Spouse
+(b) Son or Daughter, or both
+(c) Parents
+(d) Daughter-in-law, the widow of the pre-deceased son.
+Conditions for succession: The successor must have lived in the premises with the deceased tenant as a family member, dependent on the tenant. However, if the successor, their spouse, or any dependent son or daughter already owns or occupies a residential property in Delhi, the right to tenancy does not pass.
+Limited Right for Certain Successors:
+
+If a successor was living in the premises but was not dependent on the deceased tenant or owns/occupies a residential property in Delhi, they acquire a right to continue as a tenant for one year from the tenant's death. After this period, or if the successor dies within that year, the right to continue as a tenant is extinguished.
+Explanations:
+
+(a) If a right to continue as a tenant is extinguished for one successor, it does not affect the right of other successors in the same category. If there are no other successors in the same category, the right does not pass to successors in a lower category.
+(b) The right to continue as a tenant is personal and does not pass to the heirs of the successor upon their death.
+Non-residential Premises:
+
+The rules in sub-sections (1) and (2) do not apply to non-residential premises. The landlord can take back possession of non-residential premises within one year of the tenant's death, dissolution of a firm, winding up of a company, or dissolution of a corporate body, depending on the tenant's legal form.[/5]
+
+[6]Rent Calculation:
+
+The rent payable for a premises can be:
+(a) The rent agreed upon between the landlord and the tenant, with enhancements as specified in Schedule I, or
+(b) The standard rent specified under section 7, as revised under section 9.
+Enhancement for Existing Tenancies:
+
+For tenancies established before the Act began, the landlord can increase the rent as specified under section 7 by providing written notice to the tenant within three months from the Act's commencement.
+The enhanced rent becomes payable from the date of the Act's commencement.
+In simpler terms, the rent for a premises is determined by either the agreed-upon rent between the landlord and tenant or the standard rent specified by the Act, with possible enhancements as per the schedule. For existing tenancies, landlords can increase the rent as per the Act within three months from its commencement, and the increased rent becomes payable from that date.[/6]
+
+[7] In simple terms, "standard rent" is the rent set for a property based on 10% per annum of the total cost of construction and the market price of the land when construction started. This standard rent can be increased as outlined in Schedule I.
+
+The cost of construction includes expenses for electrical fittings, water pumps, tanks, and other fixtures in the property.
+If fixtures are shared among occupants, the cost is determined based on the proportion of the property's plinth area to the building's total plinth area.
+The actual amount spent on construction is the cost, but if unknown, it can be determined using scheduled rates from the Central Public Works Department.
+The market price of the land is either the purchase price from the sale deed or the land rates notified by the local authority, whichever is higher.
+The land includes the building's plinth area and up to 50% of adjacent vacant land.
+If the property is part of a building with multiple premises, the land price is based on the proportion of the property's plinth area to the total building's plinth area.
+
+In cases where the property is acquired from the government or a local authority, the cost of construction and land price is the total amount payable to them. The Rent Authority can allow an additional 30% for any expenses incurred for improvements, additions, or structural alterations in the property, subject to a maximum of 30% of the amount payable to the government or local authority.[/7]
+
+[8] This section outlines additional charges that a tenant is responsible for paying to the landlord:
+
+Specified Charges:
+
+Besides the rent, a tenant must pay the following charges to the landlord:
+(a) Charges, not exceeding fifteen percent of the rent, for amenities specified in Schedule II. The specific amenities and the agreed-upon percentage should be determined between the landlord and the tenant.
+(b) Maintenance charges at the rate of ten percent of the rent.
+(c) The pro-rata property tax in relation to the premises, in addition to the landlord's obligation to pay property tax to the local authority. The monthly charge is calculated based on the property tax paid or payable for the immediately preceding year or the estimated tax for the current year.
+Explanation: The property tax charge is calculated based on the amount paid or payable for the property tax in the previous year or the estimated tax for the current year.
+
+Additional Charges:
+
+The landlord can recover from the tenant the amount paid for charges related to electricity, water consumption, or other charges imposed by a local or other authority. This includes charges that are typically payable by the tenant.
+It's important for both the landlord and tenant to agree upon and clearly specify these charges in their rental agreement. The percentages mentioned (15% for amenities, 10% for maintenance) are the maximum limits allowed for these charges.[/8]
+
+[9] 
+This section addresses the revision of rent in specific situations:
+
+Landlord's Expenditure on Improvements:
+
+If a landlord, either before or after the commencement of this Act and with or without the tenant's approval, spends money on improvements, additions, or structural alterations in the premises (excluding decoration or necessary tenantable repairs), and the cost of these changes was not considered when determining the initial rent, the landlord can legally increase the rent each year by an amount not exceeding 10% of the cost.
+Decrease, Diminution, or Deterioration of Accommodation:
+
+If, after the rent has been fixed under this Act or agreed upon, there is a decrease, diminution, or deterioration of accommodation in the premises, the tenant has the right to claim a reduction in the rent.[/9]
+
+[10] 
+This section deals with the process of revising the rent for a property:
+
+Landlord's Intent to Revise Rent:
+
+When a landlord intends to increase the rent of a property according to the conditions specified in sub-section (1) of section 9, they must provide the tenant with a notice expressing this intention.
+The revised rent becomes due and payable from the date when improvements, additions, or structural alterations are made, as long as the revision is lawful under the Delhi Rent Act.
+Notice Requirements:
+
+The notice must be in writing and signed by the landlord or someone on their behalf.
+The notice must be delivered to the tenant in the manner outlined in section 106 of the Transfer of Property Act, 1882.
+In simple terms, if a landlord wants to increase the rent due to improvements or changes in the property, they must inform the tenant by providing a written notice. The increased rent is applicable from the date when the improvements or changes take place, and the notice must be delivered according to the specified legal procedures.[/10]
+
+[11] 
+This section outlines the powers and responsibilities of the Rent Authority in determining various aspects of rent for premises under the Delhi Rent Act, 1995:
+
+Applications to Rent Authority:
+
+Landlords or tenants can apply to the Rent Authority to determine:
+(i) Deemed rent for calculating property tax.
+(ii) Rent enhancement as per Schedule I.
+(iii) Standard rent per Section 7.
+(iv) Other charges per Section 8.
+(v) Rent revision per Section 9.
+Landlords cannot apply for standard rent if the tenancy began after the Act's commencement.
+Assessment Assistance:
+
+The Rent Authority may use a prescribed valuer to assess the cost of construction, market price of land, or expenses for improvements.
+Reasonable Determinations:
+
+The Rent Authority decides amounts reasonably, considering Sections 7, 8, and 9 and the specific circumstances of each case.
+Sub-let Premises:
+
+If part of a premises is sub-let legally, the Rent Authority can determine the standard rent for that sub-let portion.
+Alternative Methods for Determining Standard Rent:
+
+If the standard rent can't be determined according to Section 7 principles, the Rent Authority considers the situation, locality, condition of the premises, and amenities. Similar premises in the locality are also considered.
+Fixed Duration for Standard Rent:
+
+Standard rent is set for a 12-month tenancy. For tenancies less than 12 months, the standard rent is proportionate to the annual rent based on the tenancy period.
+Additional Charge for Furnished Premises:
+
+The Rent Authority determines the standard rent for unfurnished premises but may specify an additional charge for fittings or furniture supplied by the landlord, which can be recovered from the tenant.
+Effective Date of Determinations:
+
+The Rent Authority specifies a date from which the determined amounts take effect. This date can't be earlier than the application filing date. For improvements, the effective date is the completion date.
+Arrears Payment Order:
+
+The Rent Authority can order tenants to pay overdue amounts in installments, as deemed appropriate.[/11]
+
+[12] 
+This section of the Delhi Rent Act, 1995, addresses the interim determination of rent while a formal application for fixing standard rent or determining lawful increases, decreases, or other charges is pending:
+
+Interim Rent Determination:
+
+When an application is submitted under Section 11 to fix standard rent, determine lawful changes, or other charges, the Rent Authority will promptly issue an order specifying the interim amount to be paid while the formal application is being processed.
+Expeditious Process:
+
+The Rent Authority aims to handle this interim rent determination as quickly as possible.
+Effective Date:
+
+The Rent Authority also appoints a date from which the specified interim amount is considered effective.
+In essence, this section ensures that, while the formal process is ongoing, there is a temporary determination of the rent amount to be paid, providing a practical solution for both landlords and tenants during the application process.[/12] 
+
+[13] This section sets a time limit for filing applications related to rent matters under the Delhi Rent Act, 1995:
+
+Application Types:
+
+A tenant can apply to the Rent Authority to fix the standard rent of the premises.
+Both landlords and tenants can apply to determine lawful increases or decreases in rent or other charges.
+Time Limits for Premises Let Before the Act:
+
+For premises let before the Act started, applications must be filed within two years from the Act's commencement date if the cause of action for rent-related matters arose before that date.
+Time Limits for Premises Let After the Act:
+
+For premises let after the Act started:
+(i) Applications to fix the standard rent must be filed within two years from the date the premises was let.
+(ii) For other rent-related matters, applications must be filed within two years from the date the cause of action arose.
+Provision for Late Applications:
+
+The Rent Authority has the discretion to consider applications filed after the two-year period if satisfied that the applicant had a valid reason for not filing the application on time.
+In summary, this section specifies time limits for tenants, landlords, or tenants to file applications related to rent matters, with allowances for late applications under certain circumstances.[/13]
+
+[14] 
+This section states that collectors of rent or middlemen are not responsible for paying property owners (principals) more than what they are legally allowed to collect from the tenants under the Delhi Rent Act, 1995. In simpler terms, the law limits the liability of middlemen, ensuring they are not obligated to pay the property owner an amount that exceeds what is legally permissible under the Act in terms of rental and other charges. There are no specific numeric values mentioned; it's more of a principle emphasizing that middlemen should only collect what is allowed by the law from the tenants and are not liable for amounts beyond that.[/14]
+
+[15] 
+This section outlines the rules regarding rent payments and receipts under the Delhi Rent Act, 1995:
+
+Payment Deadline:
+
+Tenants must pay rent and other charges within the time specified in the contract or, if not specified, by the fifteenth day of the following month.
+Interest for Late Payment:
+
+If there's a delay in payment, the tenant is liable to pay simple interest at a rate of fifteen percent per annum, calculated from the due date to the actual payment date.
+Receipt Requirement:
+
+Tenants making payments are entitled to receive a written receipt immediately from the landlord or their authorized agent. This receipt must be signed by the landlord or agent.
+Alternative Payment Methods:
+
+Tenants can use postal money orders to remit rent to their landlords.
+Non-Receipt of Receipt:
+
+If the landlord or their agent refuses or neglects to provide a receipt, the tenant can apply to the Rent Authority within two months of the payment date. The Rent Authority may order the landlord to pay damages, not exceeding double the rent or charges, along with application costs.
+Bank Account Details:
+
+If the landlord refuses to accept or avoids receiving rent, the tenant can request written details of the landlord's bank account in Delhi.
+Payment into Bank Account:
+
+If the landlord provides bank account details, the tenant should deposit rent and charges into that account.
+Payment through Postal Money Order:
+
+If the landlord doesn't provide bank account details, the tenant must remit rent and charges through postal money orders, deducting postal charges.
+In summary, this section establishes guidelines for timely rent payment, issuance of receipts, and procedures for handling situations where receipts are not provided or where alternative payment methods are necessary.[/15]
+
+[16] This section outlines the process for tenants to deposit rent and other charges with the Rent Authority when the landlord refuses to accept payment or there is uncertainty about the rightful recipient. Here's a breakdown:
+
+Conditions for Tenant's Deposit:
+
+If the landlord rejects or neglects to accept rent and charges within the specified time or there's doubt about the rightful recipient, the tenant can deposit the amount with the Rent Authority.
+Deposit Application Details:
+
+The tenant must submit an application with specific details, including:
+(a) Description of the premises.
+(b) Period for which payment is made.
+(c) Name and address of the landlord or claimant.
+(d) Reasons for the deposit.
+(e) Any other prescribed particulars.
+Communication to Landlord:
+
+Once the deposit is made, the Rent Authority notifies the landlord or claimed recipient with a copy of the application, endorsed with the deposit date.
+Withdrawal of Deposit:
+
+If the tenant applies to withdraw the deposit, the Rent Authority can order the payment to the entitled person, following a hearing. All concerned parties are given an opportunity to be heard, and the order doesn't prejudice their rights in a court.
+Penalties for Untrue Statements:
+
+If, within 30 days of receiving the deposit notice, the landlord claims that the tenant's statements about the reasons for the deposit are untrue, the Rent Authority may fine the tenant (up to two months' rent) if the statements are found to be materially untrue. A portion of the fine may be compensated to the landlord.
+Fine on Landlord for Unreasonable Refusal:
+
+The Rent Authority can fine the landlord (up to two months' rent) if, without reasonable cause, they refuse to accept rent and charges when tendered by the tenant within the specified time. A part of the fine may be compensated to the tenant.
+In summary, this section provides a legal mechanism for tenants to deposit rent and charges with the Rent Authority when facing difficulties with the landlord, and it establishes penalties for false statements or unreasonable refusals by either party.[/16]
+
+[17] This section outlines the time limit for making rent deposits and the consequences of providing incorrect information in the application for deposit under the Delhi Rent Act, 1995:
+
+Time Limit for Deposit:
+
+Rent and other charges deposited under section 16 are considered valid only if deposited within 21 days from the time specified in section 15 for paying the rent and other charges.
+Consequences of False Statements:
+
+If a tenant knowingly makes false statements in the application for depositing rent and other charges, the deposit will not be considered valid unless the landlord withdraws the deposited amount before filing an application for possession of the premises.
+Validity of Deposit:
+
+If the deposit is made within the specified time and remains valid (not invalidated by false statements), it is treated as payment of rent and other charges to the landlord, as if the amount had been properly tendered.
+In essence, this section emphasizes the importance of timely and accurate rent deposits, setting a 21-day limit and specifying the consequences of providing false information in the deposit application.[/17]
+
+[18] This section is about the deposit of rent and other charges under the Delhi Rent Act, 1995:
+
+Non-Admission on Withdrawal:
+
+If a person withdraws rent and other charges deposited under Section 16 (manner of deposit), it does not mean they admit the correctness of the rent rate, period of default, amount due, or any other details mentioned in the tenant's application for deposit.
+Forfeiture of Unwithdrawn Deposits:
+
+Rent and other charges deposited but not withdrawn by the landlord or entitled parties will be forfeited to the government.
+The Rent Authority can order this forfeiture if the deposits remain unclaimed for five years from the date of posting the notice or deposit.
+Notice Requirement:
+
+Before ordering forfeiture, the Rent Authority must:
+Send a notice by registered post to the landlord or entitled parties at their last known address.
+Publish the notice in the Rent Authority's office and in a local newspaper.
+In summary, this section outlines the rules regarding the withdrawal and forfeiture of rent and other charges deposited under Section 16, emphasizing that withdrawal doesn't imply admission of correctness, and unclaimed deposits may be forfeited to the government after a specified period.[/18]
+
+[19] 
+This section outlines the responsibilities of landlords regarding the maintenance of rented premises under the Delhi Rent Act, 1995:
+
+Landlord's Duty:
+
+Every landlord, unless there's a written agreement stating otherwise, is obligated to maintain the premises in good and tenantable repairs concerning matters listed in Part A of Schedule III.
+Definition of "Good and Tenantable Repairs":
+
+"Good and tenantable repairs" means maintaining the premises in the same condition as when it was initially rented, excluding normal wear and tear.
+Tenant's Right to Repair:
+
+If repairs related to matters in Part A of Schedule III are necessary for the habitability or usability of the premises and the landlord fails to make them within three months after written notice, the tenant can apply to the Rent Authority.
+The tenant should provide an estimate of the repair costs. The Rent Authority, after hearing the landlord and considering the estimate, can permit the tenant to make the repairs at the specified cost.
+The tenant can then deduct or recover the repair cost from the rent. The deduction or recovery in a year cannot exceed half of the annual rent. Any remaining amount can be deducted or recovered in subsequent years at a rate of up to 25% of the monthly rent.
+Joint Repairs by Tenants:
+
+In buildings with multiple premises owned by the same landlord, tenants can collectively carry out repairs and share the expenses proportionately.
+Exceptions:
+
+Sub-section (2) does not apply to premises:
+(a) That were not habitable or usable except with undue inconvenience when initially rented, and the tenant agreed to take them in that condition.
+(b) If the tenant causes the premises to become uninhabitable or unusable except with undue inconvenience after renting.
+In summary, landlords are responsible for maintaining the rented premises, and if they fail to make necessary repairs, tenants have the right to seek permission to make the repairs themselves, subject to certain conditions and limitations.[/19]
+
+[20] This section outlines the responsibilities and duties of a tenant under the Delhi Rent Act, 1995:
+
+Maintenance of Premises:
+
+The tenant is obligated to keep the premises in good and tenantable repair, especially concerning matters listed in Part B of Schedule III.
+Repair Neglect and Landlord's Rights:
+
+If necessary repairs (related to Part B of Schedule III) are not made by the tenant within two months after receiving a written notice, the landlord can apply to the Rent Authority for permission to make the repairs. The landlord must provide an estimate of the repair cost.
+The Rent Authority, after considering the estimate and giving the tenant an opportunity to be heard, may permit the landlord to make the repairs at a specified cost, which the tenant is then liable to pay.
+Right to Enter and Inspect:
+
+The landlord or an authorized person has the right to enter and inspect the premises after giving notice to the tenant in the prescribed manner.
+Damages to Premises:
+
+The tenant is responsible for repairing damages caused by their negligence within three months of receiving a written notice from the landlord. If the tenant fails to do so, the landlord can apply to the Rent Authority for permission to make the repairs, and the Rent Authority will decide the matter.
+Return of Possession:
+
+Upon the termination of the tenancy, the tenant must return the premises in the same condition (excluding normal wear and tear) as it was at the beginning of the tenancy. If damages are caused, the tenant is required to make the necessary repairs.
+Demolition or Alteration:
+
+The tenant cannot demolish any improvement or alteration made in the premises without the landlord's permission. If done without permission, it is considered damage, and the landlord can seek permission from the Rent Authority to address the issue.[/20]
