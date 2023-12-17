@@ -5,3 +5,6 @@ transformers
 fastapi
 pydantic
 uvicorn
+spacy
+numpy
+pandas

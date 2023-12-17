@@ -3,6 +3,8 @@ from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 import sys
 import os
 sys.path.append(os.getcwd())
+import spacy
+nlp = spacy.load("C:\\Users\\Alonkr\\Downloads\\en_legal_ner_sm")
 #from simplifier.test_model import sentence_formatting as sf
 
 from fastapi import FastAPI, HTTPException
@@ -35,5 +37,13 @@ def generate_summary_api(input_text: str):
         summary = tokenizer.decode(output_ids[0], skip_special_tokens=True)
     return summary
 
+@app.post("/find_acts")
+def find_acts_api(input_text: str):
+    doc = nlp(input_text)
+    f = ' '
+    for ent in doc.ents:
+        if ent.label_ == "STATUTE" or ent.label_ == "PROVISION" or ent.label_ == "ACT" or ent.label_ == "REGULATION" : 
+            f += f"{ent.label_} : {ent} \n"
+    return f
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8080)
