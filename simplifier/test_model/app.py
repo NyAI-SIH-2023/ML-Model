@@ -42,7 +42,7 @@ def generate_summary(inp):
 
 @app.post("/summarize")
 def generate_summary_api(input_text: InputText):
-    path = os.path.join(os.getcwd(),'data/raw data/1.txt')
+    #path = os.path.join(os.getcwd(),'data/raw data/1.txt')
     document = input_text.text
     
     sentences = sf.get_sentences(document)
